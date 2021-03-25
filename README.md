@@ -20,5 +20,4 @@ and enter path to the tensorflow model, research, object detection, data and you
 <br/>
 <br/>
 <br/>
-# Script Published by AlPHA and Written by Sentdex from Youtube<br/>
-#AlPHA<br/>
+# Script Published by AlPHA<br/>
