@@ -20,4 +20,4 @@ and enter path to the tensorflow model, research, object detection, data and you
 <br/>
 <br/>
 <br/>
-# Script Published by AlPHA<br/>
+Created By AlPHA With ❤️
